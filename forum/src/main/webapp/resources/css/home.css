@@ -1,0 +1,117 @@
+td.discussion-table {
+	text-align: center;
+	font-family: sans-serif; 
+	font-size: 14px;
+}
+.header-image {
+	height: 35px;
+	float: left; 
+	padding-left: 5px;
+}
+h3 {
+	padding-top: 12px; 
+	margin-left: 60px;"
+}
+span.post-time {
+	font-family: sans-serif;
+	font-size: 12px; 
+	padding-left: 5px;
+}
+th {
+  font-weight: bold;
+  color: white; 
+  font-size: 14px; 
+  text-indent: 5px; 
+  font-family: sans-serif
+}
+thead {
+	border-bottom: 1px solid #dddddd;
+	background: deepskyblue; 
+	line-height: 30px;
+}
+select#filter {
+	margin-left: 5px; 
+	height: 30px; 
+	margin-top: 10px; 
+	border: 1px solid #d4d4d4;
+}
+input#filter_search_text {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box; 
+	-ms-flex: 1; 
+	height: 30px; 
+	line-height: 26px; 
+	width: 30%; 
+	padding-left: 10px; 
+	padding-right: 24px; 
+	border: 1px solid #d4d4d4; 
+	position: relative; 
+	float: right; 
+	margin-top: 10px; 
+	margin-right: 5px;"
+}
+#search_btn {
+	position: absolute; 
+	top: 79px; 
+	right: 300px; 
+	color: #707070;
+}
+#add_discussion_btn {
+	height: 30px; 
+	margin-left: 380px; 
+	border-style: none; 
+	vertical-align: middle; 
+	text-align: center;
+}
+.comment-text-area {
+	height: 30px; 
+	width: 100%; 
+	border: 1px solid #e6e6e6; 
+	padding: 4px; 
+	margin-left: 30px;
+}
+#discussion_content_parent {
+	 border: 1px solid; 
+	 border-color: #eaeaea #ddd #d0d0d0; 
+	 margin: 0 0 10px; 
+	 color: #333; 
+	 font-size: .875rem; 
+	 font-weight: normal; 
+	 line-height: 1.4; 
+	 border-bottom: 0; 
+	 background-color: white; 
+	 line-height: 20px;">
+}
+.discussion-title {
+	font-family: sans-serif; 
+	font-size: 18px; 
+	color: #555; 
+	font-weight: bold; 
+	margin-bottom: 12px;
+}
+.discussion-content {
+	margin-top: 10px;
+	color: #222; 
+	padding: .5em .35em; 
+	clear: both; 
+	width: 95%; 
+	overflow-x: auto; 
+	overflow-y: auto; 
+	word-wrap: break-word;
+}
+.reply-textbox {
+	border: 0; 
+	padding: 0; 
+	margin: 0; 
+	margin-bottom: 20px; 
+	width: 100%; 
+	box-shadow: none !important;
+}
+.author-icon {
+	max-width: 32px; 
+	max-height: 32px; 
+	border-radius: 50%; 
+	vertical-align: top; 
+	height: auto; 
+	border: 0;
+}

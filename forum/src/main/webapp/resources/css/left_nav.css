@@ -1,0 +1,40 @@
+li.left-nav-list {
+	margin-bottom: 8px;
+	float: none; 
+	display: block; 
+	padding: 0px; 
+	margin-right: 0px !important; 	
+}
+
+a.left-nav-btn {
+	max-heigt: 700777px; 
+	padding: 8px 18px; 
+	color: #000000; 
+	font-size: 1em; 	
+	display: block; 
+	border: 1px solid; 
+	border-radius: 5px; 
+	border-color: #517186; 
+	background-color: deepskyblue; 
+}
+
+.left-navigation {
+  display: block; 
+  padding: 0px; 
+  vertical-align: bottom; 
+  line-height: normal; 
+  margin-top: 120px; 
+  width: 190px;	
+}
+
+.user-details {
+   float: left; 
+   padding-left: 10px;
+}
+
+.user-profile-image {
+	width: 15%; 
+	float: left; 
+	margin-left: 10px; 
+	margin-top: 10px;
+}
